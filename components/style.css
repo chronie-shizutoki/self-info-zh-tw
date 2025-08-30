@@ -1,19 +1,19 @@
 /* Import font (keep unchanged) */
 @font-face {
-    font-family: 'LXGWWenKaiGB-Regular';
-    src: url('../fonts/LXGWWenKaiGB-Regular.woff2') format('woff2');
+    font-family: 'LXGWWenKaiTC-Regular';
+    src: url('../fonts/LXGWWenKaiTC-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 
 * {
-    font-family: 'LXGWWenKaiGB-Regular', sans-serif;
+    font-family: 'LXGWWenKaiTC-Regular', sans-serif;
 }
 
 /* 1. Basic and Background Settings */
 body {
     margin: 0; /* Remove the default margin of the body */
-    font-family: 'LXGWWenKaiGB-Regular', sans-serif;
+    font-family: 'LXGWWenKaiTC-Regular', sans-serif;
     line-height: 1.6;
     user-select: none;
     /* Provide some vertical space for the content container */
