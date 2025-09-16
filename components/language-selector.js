@@ -51,7 +51,7 @@ class LanguageSelector {
         button.style.backdropFilter = 'blur(5px)';
         button.style.border = '1px solid rgba(255, 255, 255, 0.3)';
         button.style.color = '#ffffff';
-        button.style.fontFamily = 'KleeOne-Regular, system-ui, sans-serif';
+        button.style.fontFamily = 'LXGWWenKaiTC-Regular, system-ui, sans-serif';
         button.style.cursor = 'pointer';
         button.style.zIndex = '1000';
         button.style.transition = 'all 0.3s ease';
